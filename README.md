@@ -1,6 +1,4 @@
 # jobago
-JOS
-
 JOS - Jobago Ordering Software
 
 
